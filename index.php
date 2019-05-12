@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Ben Devops on AWS</title>
+    <title>Welcome to Ben Devops on AWS!</title>
 </head>
 <body>
     <?php
