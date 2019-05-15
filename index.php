@@ -9,6 +9,7 @@
         $welcome = new Welcome();
     ?>
     <h1><?php echo $welcome->greet() ?></h1>
-<h1>Hello world!</h1>
+<h2>Hello world!</h2>
+<h3>Ben was here</h3>
 </body>
 </html>
